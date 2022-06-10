@@ -1,6 +1,8 @@
 package goroutine
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestTest1(t *testing.T) {
 	Test1()

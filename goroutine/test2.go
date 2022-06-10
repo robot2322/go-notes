@@ -1,3 +1,5 @@
+// WaitGroup主进程阻塞
+
 package goroutine
 
 import (
